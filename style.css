@@ -1,7 +1,7 @@
 nav ul li a {
   font-size: 12px;
   color:white;
-  background-color: 556B2F;
+  background-color: #556B2F;
 }
 
 li {
@@ -118,6 +118,9 @@ aside {
 }
 aside ul {
     list-style-type: none;
+    font-size: medium;
+    font-color: #556B2F;
+
 }
 
 .about {
